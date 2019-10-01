@@ -1,0 +1,22 @@
+{
+  "name": "mqtt-web",
+  "version": "1.0.0",
+  "description": "For heroku deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rLaurentePn2k19/Mqtt-Web.git"
+  },
+  "author": "Rangie Laurente",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rLaurentePn2k19/Mqtt-Web/issues"
+  },
+  "homepage": "https://github.com/rLaurentePn2k19/Mqtt-Web#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
